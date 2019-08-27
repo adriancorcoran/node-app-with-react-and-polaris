@@ -1,0 +1,19 @@
+.EditLocationButtons button:nth-child(2) {
+  margin-left: 2rem;
+}
+
+.EditLocation-card {
+  position: relative;
+}
+
+.EditLocation-delete-button button {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+}
+
+@media screen and (max-width: 489px) {
+  .EditLocation-delete-button {
+    bottom: 16px;
+  }
+}

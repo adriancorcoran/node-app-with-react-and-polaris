@@ -1,0 +1,7 @@
+.Polaris-Choice {
+  display: flex;
+}
+
+.user-homepage .Polaris-Card__Section:last-child {
+  border-top: none;
+}

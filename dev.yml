@@ -1,0 +1,23 @@
+name: zrt-dashboard
+
+type: node
+
+up:
+  - node:
+      version: v8.10.0
+      yarn: true
+      packages:
+        - .
+        # - path/to/other/package
+  - railgun
+
+commands:
+  # console:
+  # server:
+  # build:
+  test: yarn test
+  server: yarn dev
+  setup: yarn setup
+
+open:
+  "My Application": https://zrt-dashboard.myshopify.io

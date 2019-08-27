@@ -1,0 +1,15 @@
+.Polaris-Layout__Section--secondary .Polaris-ResourceList-Item {
+  cursor: default;
+}
+
+.Polaris-Layout__Section--secondary .Polaris-ResourceList-Item:hover {
+  background-image: unset;
+}
+
+.Polaris-Layout__Section--secondary .Polaris-ResourceList-Item__Media {
+  margin-top: 1rem;
+}
+
+.Polaris-Layout__Section--secondary .Polaris-Icon__Svg {
+  fill: #02848e;
+}
