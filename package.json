@@ -44,7 +44,7 @@
     "react-scripts": "2.1.5",
     "react-transition-group": "^1.2.1",
     "request": "^2.88.0",
-    "sequelize": "^4.43.1"
+    "sequelize": "^5.15.1"
   },
   "devDependencies": {
     "@babel/core": "^7.4.0",
